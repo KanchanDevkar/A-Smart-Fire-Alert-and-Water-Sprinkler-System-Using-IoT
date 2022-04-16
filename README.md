@@ -6,6 +6,14 @@ The systems which are available in market for fire detection in buildings are ca
 
 # Description
 
+
 # Team Members and Therir Contribution
+Kanchan Devkar 
+Gauri Ghurde
+Shraddha  Mhetre
+Harshada Kumbha
 
 # Project
+The threat to people’s lives and property caused by fires has become increasingly serious. Due to this the property management has been one of the principal worries for builders, architects, and property owners. To address the problem of high false alarm rate and to resolve the issue of not taking quick action in traditional fire detection, we are introducing an innovative detection method using IoT. Solitary sensors were utilized for quite a while in case of identification of fire. However, these sensors cannot take measures of fire to alarm the crisis reaction units. To resolve this issue, there is a need to develop a system using a smart fire recognition framework, that would recognize the fire utilizing coordinated sensors to send alerts to property owners, crisis administration and neighbors also, take quick action as soon as fire is detected. The proposed model utilizes diverse incorporated locators, like warmth, smoke, and fire. The signals from those identifiers go through the framework calculation to check the probability of the fire and automatically starts water irrigation. The most important feature of the proposed framework is to limit faulty alerts as well as start water sprinkler irrigation system when fire gets detected, which make this framework more steady. The tentative result showed the prevalence of our model as far as moderateness, viability, and responsiveness as the framework utilizes the blynk app stage, which makes the information trade quicker and stable.
+
+
